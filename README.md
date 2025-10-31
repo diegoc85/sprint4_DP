@@ -30,7 +30,7 @@ Esta abordagem resolve o problema "de cima para baixo". A função principal, `c
 
 * **Função Principal (`calcular_minimo_pacotes_recursivo`):**
     * Esta é a função "de entrada" que o usuário chama. Sua responsabilidade principal é inicializar o `cache_calculo_novo` (um dicionário do Python).
-    * Seguindo a dica dada pelo professor em seu material de aula de limpar o cache, ao iniciar um novo dicionário vazio a cada chamada, garantimos que ele seja "limpo" e que resultados de cálculos antigos não interfiram em novas simulações.
+    * Seguindo a dica dada pelo professor em seu material de aula de limpar o cache, ao iniciar um novo dicionário vazio a cada chamada, garante-se que ele seja "limpo" e que resultados de cálculos antigos não interfiram em novas simulações.
     * Ela então chama a função auxiliar (`_resolver_consumo_recursivo`) para iniciar o processo.
 
 * **Função Auxiliar (`_resolver_consumo_recursivo`):**
