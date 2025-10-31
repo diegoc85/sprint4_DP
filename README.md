@@ -1,4 +1,9 @@
 # Relatório do Projeto: Otimização de Consumo Diário de Insumos na DASA
+
+# Grupo:
+- DÉBORA IVANOWSKI – RM 555694
+- DIEGO CABRAL – RM 557817
+- PEDRO OLIVEIRA – RM 99943
 ---
 
 ## 1. Introdução ao Problema
